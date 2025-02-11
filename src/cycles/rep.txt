@@ -1,0 +1,16 @@
+Exercice 5
+Redéfinir une méthode dans une sous-classe signifie écrire une méthode qui a exactement la même signature qu'une méthode héritée. La méthode redéfinie remplace, dans la clase fille, la méthode héritée.
+
+Exercice 6
+toString
+getPuissance
+
+Exercice 7
+Le mot-clé @override est utilisé pour redéfinir une méthode qui est héritée de la classe parente.
+
+Exercice 8
+L'annotation @Override indique que la méthode est héritée de la classe mère. 
+Oui on peut s'en dispenser.
+
+Exercice 10
+Il signifie l'appel de la méthode getPuissance de Velo.java
